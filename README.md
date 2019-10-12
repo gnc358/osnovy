@@ -5,8 +5,8 @@ namespace Laba3
 {
     public partial class Form2 : Form
     {
-        public Form2()
-        {
+        public Form2()	
+        {	
             InitializeComponent();
         }
         double Vvod(TextBox t)
